@@ -1,0 +1,44 @@
+#left_side{
+    background-color:rgb(17, 66, 72);
+    border-style: dashed;
+    border-color: rgb(255, 248, 248);
+}
+#right_side{
+    background-color: rgb(24, 85, 93);
+}
+
+
+.section1{
+    background-color: rgb(255, 255, 255);
+    min-height: 150px;
+}
+.section1 h1{
+    font-size: 100px;
+    font-family: monospace;
+    margin-left: 50px;
+}
+.random{
+    border-style: dashed;
+    border-color: rgb(255, 255, 255);
+    color: #f0ffff;
+    font-family: monospace;
+}
+
+.table2{
+    color: antiquewhite;
+    font-family: monospace;
+}
+.table1{
+    color: aliceblue;
+}
+.section2{
+   background-color: rgb(23, 23, 28);
+  
+   min-height: 1000px;
+           
+    
+}
+
+
+
+
